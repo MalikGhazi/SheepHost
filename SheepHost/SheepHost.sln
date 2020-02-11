@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheepHost", "SheepHost\SheepHost.csproj", "{A0BF91DB-B032-4B79-9CA2-40694E1A7140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheep.Application", "Sheep.Application\Sheep.Application.csproj", "{2EE711D6-0A66-4B59-B17D-2F360E28F6A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheep.Domain", "Sheep.Domain\Sheep.Domain.csproj", "{EF2E16BF-B96D-463C-B750-82F1A69E0BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheep.Integration", "Sheep.Integration\Sheep.Integration.csproj", "{16A96F34-15D2-4A47-977E-E16D2770F8CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheep.Infrastructure", "Sheep.Infrastructure\Sheep.Infrastructure.csproj", "{7F64755D-8710-4A0D-BA47-4EABFF6E4C59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BF91DB-B032-4B79-9CA2-40694E1A7140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BF91DB-B032-4B79-9CA2-40694E1A7140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BF91DB-B032-4B79-9CA2-40694E1A7140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BF91DB-B032-4B79-9CA2-40694E1A7140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE711D6-0A66-4B59-B17D-2F360E28F6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE711D6-0A66-4B59-B17D-2F360E28F6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE711D6-0A66-4B59-B17D-2F360E28F6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE711D6-0A66-4B59-B17D-2F360E28F6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2E16BF-B96D-463C-B750-82F1A69E0BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2E16BF-B96D-463C-B750-82F1A69E0BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2E16BF-B96D-463C-B750-82F1A69E0BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2E16BF-B96D-463C-B750-82F1A69E0BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A96F34-15D2-4A47-977E-E16D2770F8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A96F34-15D2-4A47-977E-E16D2770F8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A96F34-15D2-4A47-977E-E16D2770F8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A96F34-15D2-4A47-977E-E16D2770F8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F64755D-8710-4A0D-BA47-4EABFF6E4C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F64755D-8710-4A0D-BA47-4EABFF6E4C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F64755D-8710-4A0D-BA47-4EABFF6E4C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F64755D-8710-4A0D-BA47-4EABFF6E4C59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F5AABAF-73C8-4561-8012-C617756D5DE9}
+	EndGlobalSection
+EndGlobal
